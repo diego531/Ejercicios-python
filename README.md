@@ -1,2 +1,2 @@
 # Ejercicios-python
-Estos ejercicios hacen parte del curso del curso Básico De Python
+Estos ejercicios hacen parte del curso del curso Básico De Python De Platzi 💚💚
