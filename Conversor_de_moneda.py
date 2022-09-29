@@ -48,9 +48,4 @@ else:
     print("Ingresa una opción correcta please")
 
 
-# Pesos colombianos a dolares
-
-
-# #Dolares a pesos colombianos
-
 
